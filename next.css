@@ -1,0 +1,19 @@
+#div{
+    width: 60%;
+    border-color: black;
+    box-shadow: 5px 5px 30px black;
+    border-style: ridge;
+    background-color: aqua;
+}
+#place_of_name{
+    color: chocolate;
+    text-underline-position: below;
+    border-style: ridge;
+    box-shadow: 5px 5px 30px green;
+}
+#place_of_number{
+    color: rgb(210, 30, 30);
+    text-underline-position: below;
+    border-style: ridge;
+    box-shadow: 5px 5px 30px rgb(128, 43, 0);
+}

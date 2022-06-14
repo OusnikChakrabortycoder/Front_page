@@ -1,0 +1,22 @@
+#image{
+    width: 100px;
+    height: 100px;
+}
+#div{
+    background-color: aqua;
+    color: red;
+    box-shadow: 5px 5px 30px black;
+    width: 60%;
+}
+#name{
+    width: 80%;
+}
+#name::placeholder{
+    text-align: center;
+}
+#number{
+    width: 80%;
+}
+#number::placeholder{
+    text-align: center;
+}
